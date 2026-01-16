@@ -23,7 +23,7 @@ public class leetcode744 {
     public static void main(String[] args) {
         char [] test = {'c','f','j'};
         Solution744 s1 =new Solution744();
-        char result = s1.nextGreatestLetter(test,'d');
+        s1.nextGreatestLetter(test,'d');
 
 
     }
