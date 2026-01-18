@@ -41,3 +41,5 @@ public class InfiniteArray {
         return Infinite(arr, target, start, end);
     }
 }
+
+//this is an infinite array question from gfg
